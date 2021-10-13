@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [@viktorilievski](https://github.com/viktorilievski)
+- 👋 Hi, I’m Viktor Ilievski
 - 👀 I’m interested in *Mobile Development - Android*
 - 🌱 I’m currently learning *Kotlin Android Development*
 - 👨‍💻 I’m currently working as an **intern** at [Intertec.io - Skopje](https://www.intertec.io/) as an Android Developer
